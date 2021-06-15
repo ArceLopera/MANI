@@ -1,0 +1,15 @@
+Limpiar Codigo (Lo que no funcione se va)
+Hacer documentation
+separar gui de logica
+Planear software:
+Logic:
+Color Conversion
+Monitor Configuration
+Filters
+Statistics
+GUI
+------
+Para histogram Matching:
+que se pueda escoger un orden del channel
+que se puede escoger que bases y que targets
+que se escoja un folder para grabar
